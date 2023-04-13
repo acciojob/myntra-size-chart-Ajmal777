@@ -1,2 +1,14 @@
+th{
+	text-align: left;
+}
+.cell{
+	width: 100px;
+}
 
-/* Your CSS Code here. */
+.data{
+	text-align: right;
+}
+
+th, tr, td{
+	border: 1px solid black;
+}
